@@ -1,10 +1,10 @@
 # Elite101-PreWork
 This repository contains my pre-work project for the Elite 101 Course at Code2College.<br/>
 The pre-work is a python chatbot.<br/>
-This line is added from Repl.it.<br/>
+This is another line
 
 ## This section is added to the new branch
 This branch will be pushed to the repository as a new branch.<br/>
 You can add anything here to test it.
 
-## This is a new subheading of 1 line
+## This is a new heading level of 1 line
