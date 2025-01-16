@@ -4,7 +4,7 @@ The pre-work is a python chatbot.<br/>
 This line is added from Repl.it.<br/>
 
 ## This section is added to the new branch
-This branch is going to be be pushed to the repository as a new branch.<br/>
+This branch could be pushed to the repository as a new branch.<br/>
 You can add anything here to test it.
 
 ## This is a new subheading of 1 line
